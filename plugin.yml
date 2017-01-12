@@ -1,0 +1,8 @@
+name: ClearMyChat
+version: 1.0.0
+main: RTG\ClearMyChat\Main
+api: 2.1.0
+author: IG
+commands:
+  clear:
+    description: "Clears your chat!"
